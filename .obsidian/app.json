@@ -4,6 +4,6 @@
   "showUnsupportedFiles": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "content/posts",
-  "newLinkFormat": "relative",
+  "newLinkFormat": "absolute",
   "attachmentFolderPath": "static"
 }
