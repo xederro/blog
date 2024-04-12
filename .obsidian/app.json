@@ -1,1 +1,9 @@
-{}
+{
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "content/posts",
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "static"
+}
