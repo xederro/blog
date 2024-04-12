@@ -9,7 +9,11 @@ disableFingerprinting = true
 source = 'blog/files'
 target = 'static/files'
 
-
+[[menu.main]]
+identifier = "Archives"
+name = "archives"
+url = "https://xederro.github.io/blog/archives/"
+weight = 30
 
 [params]
 ShowReadingTime = true
