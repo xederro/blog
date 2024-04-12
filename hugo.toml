@@ -6,5 +6,5 @@ theme = 'PaperMod'
 [params.assets]
 disableFingerprinting = true
 [[module.mounts]]
-source = 'files'
+source = 'blog-hugo/files'
 target = 'static/files'

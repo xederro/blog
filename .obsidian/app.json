@@ -5,5 +5,5 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "content/posts",
   "newLinkFormat": "absolute",
-  "attachmentFolderPath": "files"
+  "attachmentFolderPath": "blog-hugo/files"
 }
