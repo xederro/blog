@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/Hello World.md",
+                "file": "archetypes/default.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/Hello World.md"
+                "file": "archetypes/default.md"
               }
             }
           }
@@ -108,22 +108,22 @@
   },
   "active": "ce62b4cbf9c5f9e4",
   "lastOpenFiles": [
+    "templates/page.md",
+    "content/archives.md",
+    "content/posts/Hello World.md",
     "docs/index.xml",
     "docs/index.html",
-    "docs/archives/index.html",
-    "docs/archives",
-    "docs/tags/index.xml",
-    "docs/tags/index.html",
-    "docs/tags",
-    "docs/404.html",
     "docs/posts/page/1/index.html",
     "docs/posts/page/1",
     "docs/posts/hello-world/index.html",
+    "docs/posts/page",
+    "docs/posts/index.xml",
+    "docs/posts/index.html",
+    "docs/posts/hello-world",
+    "docs/posts",
     "docs/files/Pasted image 20240412233250.png",
     "blog/files/Pasted image 20240412233250.png",
     "Pasted image 20240412233231.png",
-    "content/archives.md",
-    "content/posts/Hello World.md",
     "content/search.md",
     "content/posts/Test.md",
     "content/posts/hymmm.md",
@@ -134,7 +134,6 @@
     "docs/Pasted image 20240412192852.png",
     "blog/files/Pasted image 20240412192852.png",
     "static/Pasted image 20240412192830.png",
-    "templates/page.md",
     "2024-04-12.md"
   ]
 }
