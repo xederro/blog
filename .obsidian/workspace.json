@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/hymmm.md",
+                "file": "content/posts/Hello World.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/hymmm.md"
+                "file": "content/posts/Hello World.md"
               }
             }
           }
@@ -108,24 +108,30 @@
   },
   "active": "ce62b4cbf9c5f9e4",
   "lastOpenFiles": [
+    "docs/files/Pasted image 20240412233250.png",
+    "blog/files/Pasted image 20240412233250.png",
+    "Pasted image 20240412233231.png",
+    "docs/posts/hello-world/index.html",
+    "docs/posts/hello-world",
+    "docs/posts/untitled/index.html",
+    "docs/posts/untitled",
+    "content/archives.md",
+    "content/posts/Hello World.md",
+    "docs/assets/css/stylesheet.4599eadb9eb2ad3d0a8d6827b41a8fda8f2f4af226b63466c09c5fddbc8706b7.css",
+    "content/search.md",
+    "docs/search/index.html",
+    "docs/search",
+    "docs/untitled/index.html",
+    "docs/untitled",
+    "docs/index.json",
     "content/posts/Test.md",
     "content/posts/hymmm.md",
-    "bin/APR.exe",
-    "bin/cli.exe",
-    "docs/Nowy folder skompresowany (zip).zip",
-    "docs/index.xml",
-    "docs/page/1/index.html",
-    "docs/page/1",
-    "docs/page",
-    "docs/404.html",
-    "docs/index.html",
-    "docs/tags/index.html",
     "docs/files/Pasted image 20240412201624.png",
     "docs/files/Pasted image 20240412192852.png",
-    "blog-hugo/files/Pasted image 20240412201624.png",
+    "blog/files/Pasted image 20240412201624.png",
     "bin/bin.md",
     "docs/Pasted image 20240412192852.png",
-    "blog-hugo/files/Pasted image 20240412192852.png",
+    "blog/files/Pasted image 20240412192852.png",
     "static/Pasted image 20240412192830.png",
     "templates/page.md",
     "2024-04-12.md"

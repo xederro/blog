@@ -1,4 +1,4 @@
-baseURL = 'https://xederro.github.io/blog-hugo/'
+baseURL = 'https://xederro.github.io/blog/'
 languageCode = 'en-us'
 title = 'Xederro - blog'
 publishDir = 'docs/'
@@ -6,5 +6,26 @@ theme = 'PaperMod'
 [params.assets]
 disableFingerprinting = true
 [[module.mounts]]
-source = 'blog-hugo/files'
+source = 'blog/files'
 target = 'static/files'
+
+
+
+[params]
+ShowReadingTime = true
+ShowShareButtons = true
+ShowCodeCopyButtons = true
+
+[params.profileMode]
+enabled = true
+title = "Dawid Jabłoński"
+subtitle = "This is subtitle"
+
+  [[params.profileMode.buttons]]
+  name = "Archives"
+  url = "/blog/archives"
+
+  [[params.profileMode.buttons]]
+  name = "Github"
+  url = "https://github.com/xederro"
+

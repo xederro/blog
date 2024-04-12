@@ -13,4 +13,15 @@ caption:
 relative: 
 hidden:
 ---
-# aaaaaaaaaaaa
+# Hello World in Go
+```go
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello, 世界")
+}
+```
+
+![](/blog/files/Pasted%20image%2020240412233250.png)
