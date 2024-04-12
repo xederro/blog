@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/Test.md",
+                "file": "content/posts/hymmm.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/Test.md"
+                "file": "content/posts/hymmm.md"
               }
             }
           }
@@ -106,8 +106,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ab65d5946b45314",
+  "active": "ce62b4cbf9c5f9e4",
   "lastOpenFiles": [
+    "content/posts/Test.md",
+    "content/posts/hymmm.md",
+    "bin/APR.exe",
+    "bin/cli.exe",
+    "docs/Nowy folder skompresowany (zip).zip",
     "docs/index.xml",
     "docs/page/1/index.html",
     "docs/page/1",
@@ -115,19 +120,13 @@
     "docs/404.html",
     "docs/index.html",
     "docs/tags/index.html",
-    "docs/tags/index.xml",
-    "docs/tags",
-    "docs/posts/page/1/index.html",
-    "docs/posts/test/index.html",
     "docs/files/Pasted image 20240412201624.png",
     "docs/files/Pasted image 20240412192852.png",
     "blog-hugo/files/Pasted image 20240412201624.png",
     "bin/bin.md",
     "docs/Pasted image 20240412192852.png",
-    "content/posts/Test.md",
     "blog-hugo/files/Pasted image 20240412192852.png",
     "static/Pasted image 20240412192830.png",
-    "content/posts/Untitled.md",
     "templates/page.md",
     "2024-04-12.md"
   ]
