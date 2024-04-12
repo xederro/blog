@@ -15,6 +15,7 @@
               "state": {
                 "file": "content/posts/Test.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -107,7 +108,8 @@
   },
   "active": "ce62b4cbf9c5f9e4",
   "lastOpenFiles": [
-    "static/Pasted image 20240412192852.png",
+    "docs/Pasted image 20240412192852.png",
+    "assets/Pasted image 20240412192852.png",
     "static/Pasted image 20240412192830.png",
     "docs/posts/test/index.html",
     "docs/posts/test",

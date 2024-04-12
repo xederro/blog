@@ -5,5 +5,5 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "content/posts",
   "newLinkFormat": "absolute",
-  "attachmentFolderPath": "static"
+  "attachmentFolderPath": "assets"
 }
