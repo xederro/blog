@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "9e909a7a79c994a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5968ef16dcc3152a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86374f3e6932abe0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/Test.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab0f4510fe4425d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4536d5dcea8994f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bbdd52a045b3f8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1224a4689b2aaf76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "597b7373a9b13c5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fda715eeeebb6074",
+    "type": "split",
+    "children": [
+      {
+        "id": "49332a8545548891",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef8a9061a3ebb305",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/posts/Test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b81b3c8084f7e0fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/posts/Test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "76fa7f1e2da1ad46",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8cd45caafe1d9d94",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/posts/Test.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "86374f3e6932abe0",
+  "lastOpenFiles": [
+    "public/posts/post/index.html",
+    "public/posts/post",
+    "public/posts/my-first-post/index.html",
+    "public/posts/my-first-post",
+    "public/posts/page/1/index.html",
+    "public/posts/page/1",
+    "public/posts/page",
+    "public/posts/index.xml",
+    "public/posts/index.html",
+    "public/posts",
+    "2024-04-12.md",
+    "content/posts/Test.md"
+  ]
+}
