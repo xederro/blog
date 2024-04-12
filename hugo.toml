@@ -3,4 +3,5 @@ languageCode = 'en-us'
 title = 'Xederro - blog'
 publishDir = 'docs/'
 theme = 'PaperMod'
-params.assets.disableFingerprinting = true
+[params.assets]
+disableFingerprinting = true
