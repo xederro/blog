@@ -106,11 +106,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce62b4cbf9c5f9e4",
+  "active": "9ab65d5946b45314",
   "lastOpenFiles": [
+    "files",
     "docs/assets/css/stylesheet.css",
     "docs/Pasted image 20240412192852.png",
-    "assets/Pasted image 20240412192852.png",
+    "files/Pasted image 20240412192852.png",
     "static/Pasted image 20240412192830.png",
     "docs/posts/test/index.html",
     "docs/posts/test",
@@ -124,7 +125,6 @@
     "public/posts/my-first-post",
     "public/posts/page/1/index.html",
     "public/posts/page/1",
-    "public/posts/page",
     "2024-04-12.md"
   ]
 }

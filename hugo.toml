@@ -5,3 +5,6 @@ publishDir = 'docs/'
 theme = 'PaperMod'
 [params.assets]
 disableFingerprinting = true
+[[module.mounts]]
+source = 'files'
+target = 'static/files'
