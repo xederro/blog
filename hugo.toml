@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Xederro - blog'
 publishDir = 'docs/'
 theme = 'PaperMod'
+relativeURLs = true
 [params.assets]
 disableFingerprinting = true
 [[module.mounts]]
