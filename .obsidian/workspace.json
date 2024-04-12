@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0f81b1cf6550bf98",
+        "id": "15ce389fe4493dd1",
         "type": "tabs",
         "children": [
           {
-            "id": "ce62b4cbf9c5f9e4",
+            "id": "4507d8eed51b7055",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "archetypes/default.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,9 +83,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "archetypes/default.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -106,12 +99,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce62b4cbf9c5f9e4",
+  "active": "4507d8eed51b7055",
   "lastOpenFiles": [
-    "templates/page.md",
-    "content/archives.md",
-    "content/posts/Hello World.md",
+    "archetypes/default.md",
     "docs/index.xml",
+    "docs/404.html",
     "docs/index.html",
     "docs/posts/page/1/index.html",
     "docs/posts/page/1",
@@ -120,8 +112,10 @@
     "docs/posts/index.xml",
     "docs/posts/index.html",
     "docs/posts/hello-world",
-    "docs/posts",
     "docs/files/Pasted image 20240412233250.png",
+    "templates/page.md",
+    "content/archives.md",
+    "content/posts/Hello World.md",
     "blog/files/Pasted image 20240412233250.png",
     "Pasted image 20240412233231.png",
     "content/search.md",

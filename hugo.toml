@@ -9,6 +9,8 @@ disableFingerprinting = true
 source = 'blog/files'
 target = 'static/files'
 
+
+
 [[menu.main]]
 identifier = "Archives"
 name = "archives"
@@ -32,4 +34,3 @@ subtitle = "This is subtitle"
   [[params.profileMode.buttons]]
   name = "Github"
   url = "https://github.com/xederro"
-
