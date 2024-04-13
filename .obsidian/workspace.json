@@ -16,7 +16,7 @@
                 "file": "content/posts/Test with Banner.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
