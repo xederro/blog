@@ -25,6 +25,7 @@ ShowReadingTime = true
 ShowShareButtons = true
 ShowCodeCopyButtons = true
 math = true
+comments: true
 
 [params.profileMode]
 enabled = true

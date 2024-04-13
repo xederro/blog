@@ -5,6 +5,8 @@
     "tags": "tags",
     "title": "text",
     "date": "date",
-    "draft": "text"
+    "draft": "checkbox",
+    "ShowWordCount": "checkbox",
+    "comments": "checkbox"
   }
 }

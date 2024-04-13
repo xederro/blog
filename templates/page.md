@@ -1,15 +1,15 @@
 ---
-title: {{title}}
-date: {{date}}
-draft: "true"
+title: {{title}} 
+date: {{date}} 
+draft: true
 tags: 
 author: Xederro
-comments: "true"
+comments: true
 description: Desc Text.
-ShowWordCount: "false"
-image: 
-alt: 
-caption: 
-relative: 
-hidden:
+ShowWordCount: false
+cover.image: <image path/url>
+cover.alt: <alt text>
+cover.caption: <text>
+cover.relative: false
+cover.hidden: false
 ---
