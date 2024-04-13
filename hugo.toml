@@ -8,6 +8,9 @@ disableFingerprinting = true
 [[module.mounts]]
 source = 'blog/files'
 target = 'static/files'
+[[module.mounts]]
+source = 'static'
+target = 'static'
 
 
 
@@ -21,6 +24,7 @@ weight = 30
 ShowReadingTime = true
 ShowShareButtons = true
 ShowCodeCopyButtons = true
+math = true
 
 [params.profileMode]
 enabled = true
