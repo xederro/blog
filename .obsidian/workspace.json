@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "15ce389fe4493dd1",
+        "id": "000ce35ffcf0f831",
         "type": "tabs",
         "children": [
           {
-            "id": "4507d8eed51b7055",
+            "id": "b300f16bdac85ed1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/archives.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -83,7 +88,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/archives.md"
+              }
             }
           }
         ]
@@ -99,27 +106,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4507d8eed51b7055",
+  "active": "b300f16bdac85ed1",
   "lastOpenFiles": [
-    "archetypes/default.md",
-    "docs/index.xml",
-    "docs/404.html",
-    "docs/index.html",
-    "docs/posts/page/1/index.html",
-    "docs/posts/page/1",
-    "docs/posts/hello-world/index.html",
-    "docs/posts/page",
-    "docs/posts/index.xml",
-    "docs/posts/index.html",
-    "docs/posts/hello-world",
-    "docs/files/Pasted image 20240412233250.png",
-    "templates/page.md",
-    "content/archives.md",
     "content/posts/Hello World.md",
+    "docs/index.xml",
+    "docs/index.html",
+    "docs/404.html",
+    "docs/tags/index.xml",
+    "docs/tags/index.html",
+    "docs/tags",
+    "docs/categories/index.xml",
+    "docs/categories/index.html",
+    "docs/categories",
+    "docs/posts/page/1/index.html",
+    "docs/files/Pasted image 20240412233250.png",
+    "content/posts/Test.md",
+    "static/favicon-16x16.png",
+    "static/favicon-32x32.png",
+    "templates/page.md",
+    "archetypes/default.md",
+    "content/archives.md",
     "blog/files/Pasted image 20240412233250.png",
     "Pasted image 20240412233231.png",
     "content/search.md",
-    "content/posts/Test.md",
     "content/posts/hymmm.md",
     "docs/files/Pasted image 20240412201624.png",
     "docs/files/Pasted image 20240412192852.png",
@@ -127,7 +136,6 @@
     "bin/bin.md",
     "docs/Pasted image 20240412192852.png",
     "blog/files/Pasted image 20240412192852.png",
-    "static/Pasted image 20240412192830.png",
     "2024-04-12.md"
   ]
 }

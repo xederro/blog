@@ -1,7 +1,7 @@
 ---
-title: Test
-date: 2024-04-12
-draft: "false"
+title: {{title}}
+date: {{date}}
+draft: "true"
 tags: 
 author: Xederro
 comments: "true"
