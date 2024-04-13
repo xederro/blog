@@ -7,11 +7,6 @@ author: Xederro
 comments: true
 description: Photo test
 ShowWordCount: false
-cover.image: /blog/files/Pasted%20image%2020240412233250.png
-cover.alt: Test with Banner
-cover.caption: Test with Banner
-cover.relative: false
-cover.hidden: false
 ---
 # Hello World in Go
 ```go
