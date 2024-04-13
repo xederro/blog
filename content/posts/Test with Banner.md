@@ -22,4 +22,4 @@ func main() {
 
 ![](/blog/files/Pasted%20image%2020240412233250.png)
 
-$$x={1\over2}$$
+$$x={1\over2}$$"CLEAR APR HUGO"
