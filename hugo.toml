@@ -14,7 +14,7 @@ target = 'static/files'
 [[menu.main]]
 identifier = "Posts"
 name = "posts"
-url = "/blog/posts"
+url = "/posts"
 weight = 30
 
 [params]
