@@ -35,6 +35,7 @@ ShowReadingTime = true
 ShowShareButtons = true
 ShowCodeCopyButtons = true
 math = true
+ShowFullTextinRSS = true
 
 [params.profileMode]
 enabled = true
@@ -56,3 +57,7 @@ url = "https://ko-fi.com/xederro"
 [[params.socialIcons]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/dawidjablonski/"
+
+[[params.socialIcons]]
+name = "rss"
+url = "./index.xml"
