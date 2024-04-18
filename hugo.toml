@@ -65,4 +65,4 @@ url = "./index.xml"
 
 [services]
   [services.disqus]
-    shortname = 'https-xederro-github-io-blog.disqus.com'
+    shortname = 'https-xederro-github-io-blog'

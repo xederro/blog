@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/archives.md",
+                "file": "content/posts/Test with Banner.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/archives.md"
+                "file": "content/posts/Test with Banner.md"
               }
             }
           }
@@ -108,27 +108,26 @@
   },
   "active": "18fa3f3587f1b45d",
   "lastOpenFiles": [
+    "content/archives.md",
     "docs/index.xml",
     "docs/index.html",
     "docs/tags/index.html",
     "docs/tags",
-    "docs/categories/index.html",
-    "docs/categories",
     "docs/posts/page/1/index.html",
-    "docs/posts/test-with-banner/index.html",
     "docs/posts/page/1",
-    "docs/posts/test-with-banner",
+    "docs/posts/test-with-banner/index.html",
     "docs/posts/page",
+    "docs/posts/test-with-banner",
+    "docs/posts/index.xml",
     "docs/files/test.png",
     "docs/files/Pasted image 20240412233250.png",
-    "docs/favicon-16x16.png",
     "docs/favicon-32x32.png",
+    "docs/favicon-16x16.png",
     "content/posts/Test with Banner.md",
     "templates/page.md",
     "blog/files/test.png",
     "docs/files/Pasted image 20240412233250 1.png",
     "content/posts/Hello World.md",
-    "content/archives.md",
     "blog/favicon-32x32.png",
     "blog/favicon-16x16.png",
     "content/posts/Test.md",
