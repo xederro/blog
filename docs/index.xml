@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Xederro - blog</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://xederro.github.io/blog/</link>
     <description>Recent content on Xederro - blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://xederro.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test with Banner</title>
-      <link>http://localhost:1313/blog/posts/test-with-banner/</link>
+      <link>https://xederro.github.io/blog/posts/test-with-banner/</link>
       <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/posts/test-with-banner/</guid>
+      <guid>https://xederro.github.io/blog/posts/test-with-banner/</guid>
       <description>Photo test</description>
       <content:encoded><![CDATA[<h1 id="hello-world-in-go">Hello World in Go</h1>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go" data-lang="go"><span style="display:flex;"><span><span style="color:#f92672">package</span> <span style="color:#a6e22e">main</span>
@@ -25,7 +25,7 @@
 </span></span></code></pre></div><p><img loading="lazy" src="/blog/files/Pasted%20image%2020240412233250.png" alt=""  />
 </p>
 <p>$$x={1\over2}$$
-<img loading="lazy" src="blog/files/Drawing%202024-04-18%2022.43.33.excalidraw.svg" alt=""  />
+<img loading="lazy" src="/blog/files/Drawing%202024-04-18%2022.43.33.excalidraw.svg" alt=""  />
 </p>
 ]]></content:encoded>
     </item>

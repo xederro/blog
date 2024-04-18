@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9f66a619d591772d",
+        "id": "dcf384b6d34eb957",
         "type": "tabs",
         "children": [
           {
-            "id": "8ef7270f783207d9",
+            "id": "a22af459589777c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 523.5
   },
   "right": {
     "id": "fda715eeeebb6074",
@@ -107,12 +107,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ab65d5946b45314",
+  "active": "a22af459589777c1",
   "lastOpenFiles": [
-    "docs/files/Drawing 2024-04-18 22.43.33.excalidraw.svg",
     "docs/files/Drawing 2024-04-18 22.43.33.excalidraw.md",
-    "blog/files/Drawing 2024-04-18 22.43.33.excalidraw.md",
+    "docs/files/Pasted image 20240412233250.png",
     "content/posts/Test with Banner.md",
+    "docs/index.xml",
+    "docs/index.html",
+    "docs/posts/page/1/index.html",
+    "docs/posts/test-with-banner/index.html",
+    "docs/posts/page/1",
+    "docs/posts/test-with-banner",
+    "docs/posts/page",
+    "docs/posts/index.xml",
+    "docs/posts/index.html",
+    "docs/posts",
+    "docs/files/Drawing 2024-04-18 22.43.33.excalidraw.svg",
+    "docs/favicon-32x32.png",
+    "docs/favicon-16x16.png",
+    "blog/files/Drawing 2024-04-18 22.43.33.excalidraw.md",
     "blog/files/Drawing 2024-04-18 22.43.33.excalidraw.svg",
     "blog/files/Pasted image 20240412233250.png",
     "blog/files/test.png",
@@ -123,20 +136,6 @@
     "Excalidraw/Drawing 2024-04-18 22.31.22.excalidraw.md",
     "Excalidraw/Drawing 2024-04-18 22.32.15.excalidraw.md",
     "Excalidraw/Drawing 2024-04-18 22.31.22.excalidraw.svg",
-    "Excalidraw",
-    "docs/index.xml",
-    "docs/index.html",
-    "docs/404.html",
-    "docs/tags/index.html",
-    "docs/tags",
-    "docs/posts/page/1/index.html",
-    "docs/posts/page/1",
-    "docs/posts/test-with-banner/index.html",
-    "docs/posts/page",
-    "docs/files/test.png",
-    "docs/files/Pasted image 20240412233250.png",
-    "docs/favicon-32x32.png",
-    "docs/favicon-16x16.png",
     "content/archives.md",
     "templates/page.md",
     "content/posts/Hello World.md",

@@ -23,4 +23,4 @@ func main() {
 ![](/blog/files/Pasted%20image%2020240412233250.png)
 
 $$x={1\over2}$$
-![](blog/files/Drawing%202024-04-18%2022.43.33.excalidraw.svg)
+![](/blog/files/Drawing%202024-04-18%2022.43.33.excalidraw.svg)

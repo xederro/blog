@@ -8,7 +8,7 @@ disableFingerprinting = true
 [[module.mounts]]
 source = 'blog/files'
 target = 'static/files'
-excludeFiles = '*.excalidraw'
+excludeFiles = '*.excalidraw.md'
 [[module.mounts]]
 source = 'static'
 target = 'static'
