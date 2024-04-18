@@ -6,7 +6,7 @@ tags:
 author: Xederro
 comments: true
 description: Photo test
-ShowWordCount: false
+ShowWordCount: true
 ---
 # Hello World in Go
 

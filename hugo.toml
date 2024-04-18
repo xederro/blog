@@ -36,6 +36,7 @@ ShowShareButtons = true
 ShowCodeCopyButtons = true
 math = true
 ShowFullTextinRSS = true
+comments = true
 
 [params.profileMode]
 enabled = true
@@ -61,3 +62,7 @@ url = "https://www.linkedin.com/in/dawidjablonski/"
 [[params.socialIcons]]
 name = "rss"
 url = "./index.xml"
+
+[services]
+  [services.disqus]
+    shortname = 'https-xederro-github-io-blog.disqus.com'

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/Test with Banner.md",
+                "file": "content/archives.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/Test with Banner.md"
+                "file": "content/archives.md"
               }
             }
           }
@@ -106,25 +106,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ab65d5946b45314",
+  "active": "18fa3f3587f1b45d",
   "lastOpenFiles": [
+    "content/posts/Test with Banner.md",
+    "layouts/partials/comments.html",
+    "layouts/partials/Nowy Dokument tekstowy.txt",
     "docs/index.xml",
-    "docs/index.html",
     "docs/posts/page/1/index.html",
-    "docs/posts/test-with-banner/index.html",
     "docs/posts/page/1",
+    "docs/posts/test-with-banner/index.html",
+    "docs/posts/page",
     "docs/posts/test-with-banner",
     "docs/posts/index.xml",
-    "docs/posts/page",
     "docs/posts/index.html",
-    "docs/posts",
-    "docs/404.html",
     "docs/files/test.png",
     "docs/files/Pasted image 20240412233250.png",
     "docs/favicon-32x32.png",
     "docs/favicon-16x16.png",
     "templates/page.md",
-    "content/posts/Test with Banner.md",
     "blog/files/test.png",
     "docs/files/Pasted image 20240412233250 1.png",
     "content/posts/Hello World.md",
