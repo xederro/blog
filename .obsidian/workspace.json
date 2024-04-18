@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 523.5
+    "width": 229.5
   },
   "right": {
     "id": "fda715eeeebb6074",
@@ -107,23 +107,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ab65d5946b45314",
+  "active": "39194ac58b6b0868",
   "lastOpenFiles": [
-    "layouts/partials/comments.html",
-    "layouts/partials/Nowy Dokument tekstowy.txt",
+    "docs/index.xml",
+    "docs/index.html",
+    "docs/tags/index.html",
+    "docs/tags",
     "docs/posts/page/1/index.html",
     "docs/posts/test-with-banner/index.html",
     "docs/posts/page/1",
-    "docs/assets/css/stylesheet.css",
-    "docs/tags/index.html",
     "docs/posts/test-with-banner",
     "docs/posts/page",
-    "docs/posts/index.html",
     "docs/posts/index.xml",
+    "docs/posts/index.html",
     "docs/files/Pasted image 20240412233250.png",
     "docs/files/Drawing 2024-04-18 22.43.33.excalidraw.svg",
-    "docs/favicon-32x32.png",
     "docs/favicon-16x16.png",
+    "docs/favicon-32x32.png",
     "templates/page.md",
     "content/posts/Test with Banner.md",
     "docs/files/Drawing 2024-04-18 22.43.33.excalidraw.md",
