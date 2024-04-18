@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dcf384b6d34eb957",
+        "id": "e0bcc5365b8a5282",
         "type": "tabs",
         "children": [
           {
-            "id": "a22af459589777c1",
+            "id": "39194ac58b6b0868",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/Test with Banner.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,9 +83,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/posts/Test with Banner.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -109,23 +102,23 @@
   },
   "active": "9ab65d5946b45314",
   "lastOpenFiles": [
+    "templates/page.md",
+    "content/posts/Test with Banner.md",
     "docs/index.xml",
+    "docs/tags/index.html",
+    "docs/tags",
     "docs/categories/index.html",
     "docs/categories",
+    "docs/index.html",
+    "docs/404.html",
     "docs/posts/page/1/index.html",
-    "docs/posts/test-with-banner/index.html",
     "docs/posts/page/1",
-    "docs/posts/test-with-banner",
-    "docs/posts/page",
-    "docs/posts/index.xml",
-    "docs/posts/index.html",
-    "docs/posts",
+    "docs/posts/test-with-banner/index.html",
     "docs/files/Pasted image 20240412233250.png",
     "docs/files/Drawing 2024-04-18 22.43.33.excalidraw.svg",
     "docs/favicon-32x32.png",
     "docs/favicon-16x16.png",
     "docs/files/Drawing 2024-04-18 22.43.33.excalidraw.md",
-    "content/posts/Test with Banner.md",
     "blog/files/Drawing 2024-04-18 22.43.33.excalidraw.md",
     "blog/files/Drawing 2024-04-18 22.43.33.excalidraw.svg",
     "blog/files/Pasted image 20240412233250.png",
@@ -138,7 +131,6 @@
     "Excalidraw/Drawing 2024-04-18 22.32.15.excalidraw.md",
     "Excalidraw/Drawing 2024-04-18 22.31.22.excalidraw.svg",
     "content/archives.md",
-    "templates/page.md",
     "content/posts/Hello World.md",
     "content/posts/Test.md",
     "archetypes/default.md",
