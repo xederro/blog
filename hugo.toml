@@ -1,6 +1,6 @@
 baseURL = 'https://xederro.github.io/blog/'
 languageCode = 'en-us'
-title = 'Xederro - blog'
+title = 'Thoughts'
 publishDir = 'docs/'
 theme = 'PaperMod'
 [params.assets]
@@ -41,12 +41,12 @@ comments = true
 
 [params.profileMode]
 enabled = true
-title = "Dawid Jabłoński"
+title = "Thoughts"
+author = "Dawid Jabłoński"
 subtitle = "Aspiring devops / back-end developer"
+description = "Binary whispers, algorithms dance in code, logic's silent song."
 imageUrl = "https://avatars.githubusercontent.com/u/50398562?s=400&u=1aeee9736601dcefb084a2bb22118cb04b8ae3c3&v=4"
 imageTitle = "Photo of me"
-imageWidth = 120
-imageHeight = 120
 
 [[params.socialIcons]]
 name = "github"

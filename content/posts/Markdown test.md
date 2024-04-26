@@ -2,7 +2,7 @@
 title: Markdown test
 date: 2024-04-26
 draft: false
-tags: 
+tags:  ["test"]
 author: Xederro
 comments: true
 description: Desc Text.

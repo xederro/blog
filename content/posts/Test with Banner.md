@@ -2,7 +2,7 @@
 title: Test with Banner
 date: 2024-04-13
 draft: false
-tags: 
+tags: ["test"]
 author: Xederro
 description: Photo test
 ShowWordCount: true
