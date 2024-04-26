@@ -1,8 +1,6 @@
 ---
-title:
-  "{ title }": 
-date:
-  "{ date }": 
+title: {{ title }} 
+date: {{ date }} 
 draft: true
 tags: 
 author: Xederro
