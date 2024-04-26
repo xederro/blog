@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "47cc7f5ac93d0037",
+        "id": "6819cac974e01fec",
         "type": "tabs",
         "children": [
           {
-            "id": "7aebfa3f514f0f2a",
+            "id": "fd26efc9a16644d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/Markdown test.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,9 +83,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/posts/Markdown test.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -107,10 +100,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7aebfa3f514f0f2a",
+  "active": "fd26efc9a16644d4",
   "lastOpenFiles": [
+    "content/posts/Markdown test.md",
     "docs/index.xml",
-    "docs/index.html",
     "docs/posts/page/1/index.html",
     "docs/posts/test-with-banner/index.html",
     "docs/posts/page/1",
@@ -125,7 +118,6 @@
     "docs/favicon-32x32.png",
     "docs/favicon-16x16.png",
     "templates/page.md",
-    "content/posts/Markdown test.md",
     "content/posts/Test with Banner.md",
     "blog/files/Drawing 2024-04-18 22.43.33.excalidraw.md",
     "docs/files/Drawing 2024-04-18 22.43.33.excalidraw.md",
