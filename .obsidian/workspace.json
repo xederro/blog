@@ -11,8 +11,13 @@
             "id": "fd26efc9a16644d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/archives.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -83,7 +88,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/archives.md"
+              }
             }
           }
         ]
@@ -100,23 +107,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ab65d5946b45314",
+  "active": "fd26efc9a16644d4",
   "lastOpenFiles": [
+    "themes/PaperMod/layouts/_default/list.html~",
+    "themes/PaperMod/layouts/_default/single.html~",
     "docs/index.xml",
     "docs/posts/page/1/index.html",
-    "docs/posts/page/1",
     "docs/posts/test-with-banner/index.html",
+    "docs/posts/page/1",
     "docs/posts/markdown-test/index.html",
-    "docs/posts/page",
     "docs/posts/test-with-banner",
+    "docs/posts/page",
     "docs/posts/markdown-test",
     "docs/posts/index.xml",
-    "docs/posts/index.html",
-    "docs/posts",
-    "docs/files/Drawing 2024-04-18 22.43.33.excalidraw.svg",
     "docs/files/Pasted image 20240412233250.png",
-    "docs/favicon-16x16.png",
+    "docs/files/Drawing 2024-04-18 22.43.33.excalidraw.svg",
     "docs/favicon-32x32.png",
+    "docs/favicon-16x16.png",
     "themes/PaperMod/images/tn.png",
     "themes/PaperMod/images/screenshot.png",
     "content/posts/Markdown test.md",
