@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Thoughts</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://xederro.github.io/blog/</link>
     <description>Recent content on Thoughts</description>
     <generator>Hugo -- 0.124.1</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://xederro.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown test</title>
-      <link>http://localhost:1313/blog/posts/markdown-test/</link>
+      <link>https://xederro.github.io/blog/posts/markdown-test/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/posts/markdown-test/</guid>
+      <guid>https://xederro.github.io/blog/posts/markdown-test/</guid>
       <description>Desc Text.</description>
       <content:encoded><![CDATA[<hr>
 <p><strong>Advertisement :)</strong></p>
@@ -243,9 +243,9 @@ with lazy continuation.</p>
     </item>
     <item>
       <title>Test with Banner</title>
-      <link>http://localhost:1313/blog/posts/test-with-banner/</link>
+      <link>https://xederro.github.io/blog/posts/test-with-banner/</link>
       <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/posts/test-with-banner/</guid>
+      <guid>https://xederro.github.io/blog/posts/test-with-banner/</guid>
       <description>Photo test</description>
       <content:encoded><![CDATA[<h1 id="hello-world-in-go">Hello World in Go</h1>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-go" data-lang="go"><span style="display:flex;"><span><span style="color:#f92672">package</span> <span style="color:#a6e22e">main</span>
