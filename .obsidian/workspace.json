@@ -11,8 +11,13 @@
             "id": "5cd08a2b8bb4ab9a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/Test with Banner.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -83,7 +88,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/posts/Test with Banner.md"
+              }
             }
           }
         ]
@@ -102,21 +109,21 @@
   },
   "active": "5cd08a2b8bb4ab9a",
   "lastOpenFiles": [
-    "docs/tags/test/page/1/index.html",
-    "docs/tags/test/page/1",
+    "content/posts/Pościk.md",
+    "docs/index.xml",
     "docs/posts/page/1/index.html",
-    "docs/tags/test/page",
-    "docs/tags/test/index.html",
     "docs/posts/test-with-banner/index.html",
     "docs/posts/page/1",
     "docs/posts/markdown-test/index.html",
-    "docs/assets/css/stylesheet.css",
-    "docs/tags/test",
-    "docs/tags/index.html",
+    "docs/posts/test-with-banner",
+    "docs/posts/page",
+    "docs/posts/markdown-test",
+    "docs/posts/index.xml",
+    "docs/posts/index.html",
     "docs/files/Pasted image 20240412233250.png",
     "docs/files/Drawing 2024-04-18 22.43.33.excalidraw.svg",
-    "docs/favicon-16x16.png",
     "docs/favicon-32x32.png",
+    "docs/favicon-16x16.png",
     "content/archives.md",
     "themes/PaperMod/images/tn.png",
     "themes/PaperMod/images/screenshot.png",
