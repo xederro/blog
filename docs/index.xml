@@ -6,8 +6,17 @@
     <description>Recent content on Thoughts</description>
     <generator>Hugo -- 0.124.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://xederro.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pościk</title>
+      <link>https://xederro.github.io/blog/posts/po%C5%9Bcik/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://xederro.github.io/blog/posts/po%C5%9Bcik/</guid>
+      <description>Desc Text.</description>
+      <content:encoded><![CDATA[<h1 id="test-post">Test post</h1>
+]]></content:encoded>
+    </item>
     <item>
       <title>Markdown test</title>
       <link>https://xederro.github.io/blog/posts/markdown-test/</link>
