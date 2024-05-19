@@ -37,7 +37,6 @@ ShowShareButtons = true
 ShowCodeCopyButtons = true
 math = true
 ShowFullTextinRSS = true
-disableThemeToggle = true
 defaultTheme = "dark"
 comments = true
 
